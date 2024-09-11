@@ -1,0 +1,1 @@
+In this lab there are two buttons with their respective tasks, in which one allocates memory and the other releases it, and there is one more task, one that shows the free memory and lights up an LED if it is less than 10%.
