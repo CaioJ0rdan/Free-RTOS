@@ -1,7 +1,7 @@
-## Sistemas em Tempo Real
+## Real Time Sistems
 
-## Repositório da disciplina de Sistemas em Tempo Real.
-### Nesse curso utilizamos o software do Free-RTOS para realizar as práticas e atividades na placa Raspberry-Pi-Pico
+## Class a RTS.
+### In this course we use the Free-RTOS software to carry out practices and activities on the Raspberry-Pi-Pico board
 
 [Raspberry Pico 2](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)
 \
